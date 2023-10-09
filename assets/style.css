@@ -1,0 +1,19 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+table {
+    width: 500px;
+    height: 500px;
+    border: 1px solid #000;
+    border-collapse: collapse;
+}
+td {
+    border: solid 1px black;
+    text-align: center;
+}
+tr{
+    border: solid 1px black;
+    text-align: center;
+}
